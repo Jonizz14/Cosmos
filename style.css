@@ -1,0 +1,62 @@
+h3 {
+    color: yellow;
+    text-align: center;
+}
+
+.p1 {
+    text-align: center;
+    color: white;
+}
+
+.span1 {
+    color: green;
+}
+
+.img1 {
+    border: 4px solid yellow;
+}
+
+table,
+tr,
+td,
+th {
+    border: 1px solid yellow;
+    border-collapse: collapse;
+    color: white;
+    text-align: center;
+    width: 1340px;
+    height: 35px;
+}
+body{
+    background-color: rgb(2, 2, 37);
+}
+div{
+    align-items: center;
+    display: flex;
+    margin-left: 10px;
+}
+.tr2, td{
+    background-color: rgb(25, 26, 77);
+}
+p{
+    text-align: center;
+    color: white;
+}
+.kichik{
+    width: 600px;
+}
+input{
+    width: 1330px;
+    height: 35px;
+}
+.button{
+    text-align: center;
+}
+button{
+    background-color: yellow;
+    border: 1px solid yellow;
+    width: 500px;
+    height: 40px;
+    border-radius: 50px;
+    font-size: 30px;
+}
